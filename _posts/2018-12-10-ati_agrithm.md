@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      第一次的测试
-subtitle:   测试
+title:      ati_agrithm
+subtitle:   ati
 date:       2018-12-10
 author:     Codfish95
 header-img: img/post-bg-kuaidi.jpg
